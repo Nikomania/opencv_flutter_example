@@ -1,7 +1,7 @@
-# videoio
+# Opencv Flutter Example
 
-video read and write demo
+Video read and write from storage
 
-## Screenshot
+# Sources
 
-![demo](images/demo.png)
+https://github.com/rainyl/awesome-opencv_dart/tree/main/examples/videoio
